@@ -28,7 +28,7 @@ blessed==1.20.0
     #   paperoni (pyproject.toml)
 cattrs==23.1.2
     # via requests-cache
-certifi==2023.7.22
+certifi==2024.7.4
     # via
     #   httpcore
     #   httpx
