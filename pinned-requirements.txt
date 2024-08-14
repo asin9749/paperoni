@@ -151,7 +151,7 @@ questionary==1.10.0
     # via paperoni (pyproject.toml)
 reactivex==4.0.4
     # via giving
-requests==2.31.0
+requests==2.32.2
     # via
     #   openreview-py
     #   paperoni (pyproject.toml)
