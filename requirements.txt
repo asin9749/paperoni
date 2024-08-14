@@ -52,7 +52,7 @@ cryptography==41.0.4
     # via authlib
 deprecated==1.2.14
     # via openreview-py
-dnspython==2.4.2
+dnspython==2.6.1
     # via eventlet
 eventlet==0.33.3
     # via paperoni (pyproject.toml)
