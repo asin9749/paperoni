@@ -168,7 +168,7 @@ starlette==0.31.1
     #   starbear
 tld==0.13
     # via openreview-py
-tqdm==4.66.1
+tqdm==4.66.3
     # via
     #   openreview-py
     #   paperoni (pyproject.toml)
