@@ -86,7 +86,7 @@ httpcore==0.17.3
     # via httpx
 httpx==0.24.1
     # via grizzlaxy
-idna==3.4
+idna==3.7
     # via
     #   anyio
     #   httpx
