@@ -13,7 +13,7 @@ python = "^3.10"
 beautifulsoup4 = "^4.9.1"
 blessed = "^1.17.9"
 coleo = {extras = ["yaml"], version = "^0.3.2"}
-eventlet = "^0.33.1"
+eventlet = ">=0.33.1,<0.36.0"
 giving = "^0.4.1"
 lxml = "^4.9.1"
 openreview-py = "^1.5.2,<1.28.0"
