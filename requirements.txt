@@ -162,7 +162,7 @@ starbear==0.0.10
     # via
     #   grizzlaxy
     #   paperoni (pyproject.toml)
-starlette==0.31.1
+starlette==0.40.0
     # via
     #   sentry-sdk
     #   starbear
